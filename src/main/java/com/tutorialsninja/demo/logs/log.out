@@ -1,0 +1,18 @@
+2023-12-19 00:12:787 INFO  MyAccountPage :101 - myAccount:[[ChromeDriver: chrome on windows (d4903b807505e0834853aa0692905275)] -> xpath: //span[contains(text(),'My Account')]]
+2023-12-19 00:12:185 INFO  MyAccountPage :101 - myAccount:[[ChromeDriver: chrome on windows (0ed46ddc24f21183036a1bcab4ef59b3)] -> xpath: //span[contains(text(),'My Account')]]
+2023-12-19 00:12:521 INFO  MyAccountPage :106 - registerAccountProxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Register Account')]'
+2023-12-19 00:12:138 INFO  TopMenuPage :53 - mouseHoverOnDesktopLinkAndClick : [[ChromeDriver: chrome on windows (b45f5c8a2a6dccf4912affc3d508d90b)] -> link text: Desktops]
+2023-12-19 00:12:203 INFO  TopMenuPage :58 - getDesktopsText: [[ChromeDriver: chrome on windows (b45f5c8a2a6dccf4912affc3d508d90b)] -> xpath: //h2[contains(text(),'Desktops')]]
+2023-12-19 01:12:434 INFO  TopMenuPage :63 - mouseHoverOnLaptopAndNotebooksLinkAndClick: [[ChromeDriver: chrome on windows (70332e498786e2b4aa85503013889f48)] -> link text: Laptops & Notebooks]
+2023-12-19 01:12:105 INFO  TopMenuPage :73 - mouseHoverOnComponentsLinkAndClick: [[ChromeDriver: chrome on windows (2612f22618279930e2e7e5b0510de954)] -> link text: Components]
+2023-12-19 01:12:300 INFO  TopMenuPage :78 - getComponentsText: Proxy element for: DefaultElementLocator 'By.xpath: //h2[contains(text(),'Components')]'
+2023-12-19 11:12:609 INFO  TopMenuPage :53 - mouseHoverOnDesktopLinkAndClick : [[ChromeDriver: chrome on windows (feff4c4f925a1383931d545233b6546f)] -> link text: Desktops]
+2023-12-19 12:12:626 INFO  MyAccountPage :101 - myAccount:[[ChromeDriver: chrome on windows (391cc5516a6eb4c2261246ffd2449c76)] -> xpath: //span[contains(text(),'My Account')]]
+2023-12-19 12:12:199 INFO  MyAccountPage :106 - registerAccountProxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Register Account')]'
+2023-12-19 12:12:375 INFO  MyAccountPage :101 - myAccount:[[ChromeDriver: chrome on windows (cb802d895985da97e5127bfaa9d08b19)] -> xpath: //span[contains(text(),'My Account')]]
+2023-12-19 12:12:645 INFO  MyAccountPage :106 - registerAccountProxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Register Account')]'
+2023-12-19 12:12:303 INFO  TopMenuPage :53 - mouseHoverOnDesktopLinkAndClick : [[ChromeDriver: chrome on windows (423b2f4020dec1e5cb03d945365aefa4)] -> link text: Desktops]
+2023-12-19 12:12:127 INFO  TopMenuPage :58 - getDesktopsText: [[ChromeDriver: chrome on windows (423b2f4020dec1e5cb03d945365aefa4)] -> xpath: //h2[contains(text(),'Desktops')]]
+2023-12-19 12:12:08 INFO  TopMenuPage :63 - mouseHoverOnLaptopAndNotebooksLinkAndClick: [[ChromeDriver: chrome on windows (d622312b1bcc55710e823edfd2c63e28)] -> link text: Laptops & Notebooks]
+2023-12-19 12:12:114 INFO  TopMenuPage :73 - mouseHoverOnComponentsLinkAndClick: [[ChromeDriver: chrome on windows (db233de6e88dab535597a0aca5e8f489)] -> link text: Components]
+2023-12-19 12:12:281 INFO  TopMenuPage :78 - getComponentsText: Proxy element for: DefaultElementLocator 'By.xpath: //h2[contains(text(),'Components')]'
